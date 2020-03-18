@@ -5,7 +5,7 @@
 Run sfdx commands in docker.
 Each tag mirrors sfdx-cli verson.
 
-### Contains
+### What's in this image
 * ubuntu:19.04
 * sfdx-cli
 * jq
