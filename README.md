@@ -15,7 +15,7 @@ Each tag mirrors sfdx-cli verson.
 `$ docker run --rm -v /<localpath>/.sfdx:/root/.sfdx kratoon3/sfdx sfdx force:org:list`
 
 ### Build image
-Always use current sfdx-cli version to build docker image with same tag. 
+Always use current sfdx-cli version to build docker image with same tag.  
 `$ make tag=7.50.0` 
 
 ### Verify version
